@@ -1,0 +1,14 @@
+{
+  "name": "king-plumbing-heating",
+  "version": "1.0.0",
+  "description": "King Plumbing & Heating Guernsey: static website (Tailwind)",
+  "private": true,
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --minify",
+    "watch": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --watch"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}

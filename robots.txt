@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarniasites.github.io/king-plumbing-heating/sitemap.xml
